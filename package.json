@@ -18,7 +18,7 @@
     "commands": [
       {
         "command": "pytorch-debug-shape.installPlugin",
-        "title": "Install PyTorch Debug Plugin"
+        "title": "PyTorch Debug Shape: Install PyTorch Debug Plugin"
       }
     ]
   },

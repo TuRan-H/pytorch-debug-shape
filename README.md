@@ -6,7 +6,7 @@ This extension automatically installs a `pydevd` plugin to display PyTorch tenso
 
 1.  Install this extension.
 2.  Open the Command Palette (`Ctrl+Shift+P`).
-3.  Run `Install PyTorch Debug Plugin`.
+3.  Run `PyTorch Debug Shape: Install PyTorch Debug Plugin`.
 4.  Reload VS Code.
 
 ## Development
