@@ -1,6 +1,6 @@
-# PyTorch Debug Shape Extension for VS Code
+# PyTorch Debug Tensor Extension for VS Code
 
-This extension automatically installs a `pydevd` plugin to display PyTorch tensor shapes in the VS Code debugger.
+This extension automatically installs a `pydevd` plugin to display PyTorch tensor shapes when debugging python code in vscode.
 
 ![demo](./.asset/demo.png)
 
