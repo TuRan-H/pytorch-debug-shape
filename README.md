@@ -2,7 +2,7 @@
 
 This extension automatically installs a `pydevd` plugin to display PyTorch tensor shapes in the VS Code debugger.
 
-![demo](./asset/demo.png)
+![demo](./.asset/demo.png)
 
 ## Usage
 
