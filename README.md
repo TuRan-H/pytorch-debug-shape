@@ -24,4 +24,4 @@ This extension automatically installs a `pydevd` plugin to display PyTorch tenso
 
 ## Thanks
 
-[知乎: Ray Eldath](https://www.zhihu.com/question/560178647/answer/61258403105)
+[ZhiHu: Ray Eldath](https://www.zhihu.com/question/560178647/answer/61258403105)
