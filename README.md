@@ -22,6 +22,6 @@ This extension automatically installs a `pydevd` plugin to display PyTorch tenso
 2. Package: `vsce package`
 3. Install the `.vsix` file in VS Code.
 
-## Ref
+## Thanks
 
 [知乎: Ray Eldath](https://www.zhihu.com/question/560178647/answer/61258403105)
